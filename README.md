@@ -26,6 +26,10 @@ Perform hypothesis Testing i.e create sample size, choose appopriate Test statis
 
 Google Colab
 
+CSV file 
+
 # License #
 
-MILT License was used 
+MIT License was used - anyone intrested in using the above notebook is hereby granted access
+
+Copyright (C)
